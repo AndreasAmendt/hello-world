@@ -1,2 +1,5 @@
 gleich 
-eher
+eher 
+was
+auch
+immer
