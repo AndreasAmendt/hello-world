@@ -1,1 +1,2 @@
-gleich
+gleich 
+eher
